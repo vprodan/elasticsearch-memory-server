@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch-memory-server",
+  "version": "1.0.0",
+  "description": "ElasticSearch Server for testing (auto-download latest version).",
+  "main": "lib/index.js",
+  "repository": "https://github.com/vprodan/elasticsearch-memory-server",
+  "author": {
+    "name": "Vadim Prodan",
+    "email": "vprodan@pm.me",
+    "url": "vprodan.github.io"
+  },
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+    "debug": "^4.3.1",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.17.3",
+    "@types/debug": "^4.1.5",
+    "tsc-watch": "^4.4.0"
+  }
+}
